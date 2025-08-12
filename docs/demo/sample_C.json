@@ -1,0 +1,20 @@
+{
+  "title": "데모 스크립트 샘플",
+  "qa": [
+    {
+      "id": 1,
+      "question": "목적",
+      "answer": "메모/지시문을 규격 JSON으로 저장"
+    },
+    {
+      "id": 2,
+      "question": "대상",
+      "answer": "솔로 메이커 / 사이드 프로젝트"
+    }
+  ],
+  "tags": [
+    "project",
+    "mvp",
+    "demo"
+  ]
+}
