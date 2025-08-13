@@ -11,3 +11,6 @@ Docs baseline
 - docs/04_user_flow.md
 - docs/05_templates.md
 - docs/06_spec_v1.md
+
+**Latest release:** https://github.com/kimhgstory/memorypack/releases/latest
+
